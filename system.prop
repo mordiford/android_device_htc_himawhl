@@ -36,3 +36,7 @@ ro.ril.hsupa.category=6
 ro.ril.disable.cpc=1
 ro.baseband.arch=msm
 persist.radio.process_sups_ind=1
+
+# Mulit-user
+fw.show_multiuserui=1
+fw.max_users=5
