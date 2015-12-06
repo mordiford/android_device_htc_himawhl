@@ -13,7 +13,7 @@ persist.radio.snapshot_enabled=1
 persist.radio.snapshot_timer=22
 persist.eons.enabled=false
 
-ro.telephony.default_cdma_sub=1
+ro.telephony.default_cdma_sub=0
 ro.ril.oem.ecclist=911
 ro.ril.oem.nosim.ecclist=911
 ro.ril.enable.a53=1
