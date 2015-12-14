@@ -1,7 +1,7 @@
 [
   {
-    "remote": "crd",
-    "repository": "android_device_htc_hima-common",
+    "remote": "github",
+    "repository": "irocevo/android_device_htc_hima-common",
     "target_path": "device/htc/hima-common",
     "revision": "5.1.1"
   },
