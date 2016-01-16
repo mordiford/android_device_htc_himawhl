@@ -18,6 +18,7 @@ persist.eons.enabled=false
 persist.radio.no_wait_for_card=1
 keyguard.no_require_sim=true
 telephony.sms.pseudo_multipart=1
+ro.telephony.ril.config=simactivation
 
 ro.telephony.default_cdma_sub=1
 ro.ril.oem.ecclist=911
