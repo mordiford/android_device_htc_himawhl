@@ -14,6 +14,6 @@ PRODUCT_DEVICE := himawhl
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="htc_himawhl" \
-    PRODUCT_NAME="himawhl_sprint_wwe" \
-    BUILD_FINGERPRINT="htc/HTCOneM9spr/htc_himawhl:5.0.2/LRX22G/511781.15:user/release-keys" \
-    PRIVATE_BUILD_DESC="1.33.605.15 CL511781 release-keys"
+    PRODUCT_NAME="himawhl_na_gen_unlock" \
+    BUILD_FINGERPRINT="htc/HTCOneM9spr/htc_himawhl:6.0/MRA58K/695981.4:user/release-keys" \
+    PRIVATE_BUILD_DESC="3.41.651.4 CL695981 release-keys"
