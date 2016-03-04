@@ -20,7 +20,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product-if-exists, vendor/htc/himawhl/himawhl-vendor.mk)
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
+DEVICE_PACKAGE_OVERLAYS += device/htc/himawhl/overlay
 
 # common hima
 $(call inherit-product, device/htc/hima-common/hima.mk)
