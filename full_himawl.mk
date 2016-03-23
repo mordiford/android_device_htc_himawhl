@@ -25,5 +25,5 @@ $(call inherit-product, device/htc/himawl/device.mk)
 PRODUCT_DEVICE := himawl
 PRODUCT_NAME := full_himawl
 PRODUCT_BRAND := htc
-PRODUCT_MODEL := HTC One M9
+PRODUCT_MODEL := HTC6535LVW
 PRODUCT_MANUFACTURER := HTC
