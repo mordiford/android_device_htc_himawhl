@@ -12,6 +12,6 @@ PRODUCT_NAME := cm_himawl
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="htc_himawl" \
-    PRODUCT_NAME="himawl_na_gen_unlock" \
+    PRODUCT_NAME="HTCOneM9vzw" \
     BUILD_FINGERPRINT="htc/HTCOneM9vzw/htc_himawl:6.0/MRA58K/669662.7:user/release-keys" \
     PRIVATE_BUILD_DESC="3.37.605.7 CL669662 release-keys"
