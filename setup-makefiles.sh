@@ -22,4 +22,4 @@ export DEVICE=himawl
 export DEVICE_COMMON=hima-common
 export VENDOR=htc
 
-./../../$VENDOR/$DEVICE_COMMON/extract-files.sh $@
+./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
