@@ -3,9 +3,6 @@ $(call inherit-product, device/htc/himawl/full_himawl.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 PRODUCT_GMS_CLIENTID_BASE := android-verizon
 
 PRODUCT_NAME := cm_himawl
