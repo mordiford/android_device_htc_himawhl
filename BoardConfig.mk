@@ -21,3 +21,5 @@ TARGET_OTA_ASSERT_DEVICE := htc_himawhl,himawhl
 
 # inherit from the proprietary version
 -include vendor/htc/himawhl/BoardConfigVendor.mk
+
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
