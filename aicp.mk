@@ -6,6 +6,9 @@ $(call inherit-product, vendor/aicp/configs/common.mk)
 # Inherit telephony stuff
 $(call inherit-product, vendor/aicp/configs/telephony.mk)
 
+# boot animation
+$(call inherit-product, vendor/aicp/configs/bootanimation.mk)
+
 PRODUCT_NAME := aicp_himawhl
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
