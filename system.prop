@@ -36,3 +36,11 @@ ro.ril.hsupa.category=6
 ro.ril.disable.cpc=1
 ro.baseband.arch=msm
 persist.radio.process_sups_ind=1
+
+# AICP Device Infomation
+ro.device.chipset=Qualcomm Snapdragon 810 MSM8994
+ro.device.cpu=Quad-core 2.0 GHz ARM Cortex A57 and quad-core 1.5 GHz ARM Cortex A53
+ro.device.gpu=Qualcomm Adreno 430
+ro.device.rear_cam=20 MP
+ro.device.front_cam=4 MP
+ro.device.screen_res=1080x1920 (441 ppi)
