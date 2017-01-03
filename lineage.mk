@@ -1,11 +1,11 @@
 $(call inherit-product, device/htc/himawl/full_himawl.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_GMS_CLIENTID_BASE := android-verizon
 
-PRODUCT_NAME := cm_himawl
+PRODUCT_NAME := lineage_himawl
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="htc_himawl" \
