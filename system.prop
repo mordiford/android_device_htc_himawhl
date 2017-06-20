@@ -35,3 +35,11 @@ persist.radio.sib16_support=1
 # Mulit-user
 fw.show_multiuserui=1
 fw.max_users=5
+
+# Hardware Info
+ro.device.chipset=Qualcomm MSM8994 Snapdragon 810
+ro.device.cpu=Quad-core 1.56 GHz Cortex-A53 & Quad-core 1.82 GHz Cortex-A57
+ro.device.gpu=Adreno 430
+ro.device.rear_cam=20.7 MP
+ro.device.front_cam=4.0 MP
+ro.device.screen_res=1080x1920
