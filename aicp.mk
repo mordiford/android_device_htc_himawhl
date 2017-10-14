@@ -1,13 +1,10 @@
 $(call inherit-product, device/htc/himawhl/full_himawhl.mk)
 
 # Inherit some common AICP stuff.
-$(call inherit-product, vendor/aicp/configs/common.mk)
-
-# Inherit telephony stuff
-$(call inherit-product, vendor/aicp/configs/telephony.mk)
+$(call inherit-product, vendor/aicp/config/common_full_phone.mk)
 
 # boot animation
-$(call inherit-product, vendor/aicp/configs/bootanimation.mk)
+#$(call inherit-product, vendor/aicp/configs/bootanimation.mk)
 
 PRODUCT_NAME := aicp_himawhl
 
