@@ -10,5 +10,5 @@ PRODUCT_NAME := lineage_himawl
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="htc_himawl" \
     PRODUCT_NAME="HTCOneM9vzw" \
-    BUILD_FINGERPRINT="htc/HTCOneM9vzw/htc_himawl:6.0/MRA58K/669662.7:user/release-keys" \
-    PRIVATE_BUILD_DESC="3.37.605.7 CL669662 release-keys"
+    BUILD_FINGERPRINT="htc/HTCOneM9vzw/htc_himawl:7.0/NRD90M/947620.11:user/release-keys" \
+    PRIVATE_BUILD_DESC="4.49.605.11 CL947620 release-keys"
