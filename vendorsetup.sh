@@ -1,1 +1,1 @@
-add_lunch_combo cm_himawhl-userdebug
+add_lunch_combo aicp_himawhl-userdebug
